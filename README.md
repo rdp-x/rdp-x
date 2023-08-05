@@ -1,16 +1,43 @@
-### Hi there 👋
+# Welcome to Jake's GitHub Profile! 👋
 
-<!--
-**rdp-x/rdp-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Developer with a keen interest in Cybersecurity. 
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![xrpdx Stats](https://github-readme-stats.vercel.app/api?username=xrdpx)
+
+## 🏆 Achievements
+
+### Education
+
+- College | 2021 - Present
+
+### Certifications
+
+#### Certificate in Digital and Creative Industries
+- Gateway Qualifications | Completed: June 2022
+- Working in the Digital and Creative Industries | Database Development | Website Design and Development
+- Grade: Distinction (All Units)
+
+#### Comptia ITF+ 
+- Comptia | Completed: Start of 2023
+- Grade: Pass
+
+### Courses
+
+#### Digital Production, Design and Development
+- College | Expected Finish: July 2024
+- 16 Units
+
+## 🛠️ Skills
+
+- **Programming Languages:** C++, Python, JavaScript
+- **Frameworks & Libraries:** Bootstrap
+- **Web Development:** Building responsive and interactive web applications with modern technologies, ensuring a seamless user experience.
+- **UI/UX Design:** Creating user-centered designs and intuitive interfaces to enhance user engagement.
+
+## 📫 Let's Connect
+
+Feel free to connect with me on [Instagram](https://www.instagram.com/x_rdp_x/)
+
+Looking forward to connecting with fellow developers and enthusiasts! 🌟
