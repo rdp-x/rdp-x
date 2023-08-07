@@ -4,7 +4,7 @@ I'm a passionate Developer with a keen interest in Cybersecurity.
 
 ## 📈 GitHub Stats
 
-![rdp-x Stats](https://github-readme-stats.vercel.app/api?username=rdp-x)
+![rdp-x Stats](https://github-readme-streak-stats.herokuapp.com/?user=rdp-x&border_radius=6)
 ![rdp-x Rank](https://github-readme-stats.vercel.app/api?username=rdp-x&show_icons=true)
 
 ## 🏆 Achievements
